@@ -1,0 +1,11 @@
+101|Paneer Tikka|Starters|180.00|Available
+102|Veg Spring Rolls|Starters|120.00|Available
+201|Margherita Pizza|Main Course|249.00|Available
+202|White Sauce Pasta|Main Course|199.00|Available
+301|Veg Burger|Snacks|99.00|Available
+302|French Fries|Snacks|79.00|Available
+303|Sandwich|Snacks|89.00|Available
+401|Cold Coffee|Beverages|99.00|Available
+402|Masala Lemonade|Beverages|59.00|Available
+501|Chocolate Brownie|Desserts|109.00|Available
+502|Vanilla Ice Cream|Desserts|69.00|Unavailable

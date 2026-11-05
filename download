@@ -1,0 +1,16 @@
+# Compiled output
+food_ordering
+food_ordering.exe
+*.o
+*.obj
+*.out
+*.exe
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# NOTE: the data/*.txt files are intentionally NOT ignored,
+# because they contain the fictional sample data.

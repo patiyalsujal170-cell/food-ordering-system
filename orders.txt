@@ -1,0 +1,4 @@
+O1001|C001|2026-10-28|290.85|Delivered|2|301|Veg Burger|2|99.00|302|French Fries|1|79.00
+O1002|C002|2026-10-29|469.35|Ready|2|201|Margherita Pizza|1|249.00|401|Cold Coffee|2|99.00
+O1003|C003|2026-10-30|270.90|Preparing|2|202|White Sauce Pasta|1|199.00|402|Masala Lemonade|1|59.00
+O1004|C001|2026-10-30|322.35|Cancelled|2|501|Chocolate Brownie|2|109.00|303|Sandwich|1|89.00
